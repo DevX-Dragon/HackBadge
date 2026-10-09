@@ -50,8 +50,9 @@
 | **Pin 3** | R (Red Anode) | DAC1 / ADC2_CH8 / D25 (Pin 23) | Red LED Anode Control |
 | **Pin 4** | B (Blue Anode) | ADC1_CH4 / D33 (Pin 22) | Blue LED Anode Control |
 
-> [!TIP] 
+> [!TIP]
 > This RGB LED is used for debugging process but can be used as a custom feedback LED
+
 
 ---
 
@@ -64,7 +65,7 @@
 | **Button4** | GPIO27 | ADC2_CH7 / D27 (Pin 25) | Pushbutton Input (Switches to GND) |
 | **RESET** | EN | EN (Pin 16) | Hardware Reset Switch (Switches to GND) |
 
-> [!TIP] 
+> [!TIP]
 > The buttons can be assigned to any functions you like.
 
 ---
@@ -88,7 +89,7 @@
 | **Pin 14** | GND | GND (Pin 29) | Ground Rail |
 | **Pin 15** | +3.3V | 3.3V (Pin 1) | +3.3V Power Rail |
 
-> [!TIP] 
+> [!TIP]
 > The GPIO of the breakouts are marked in the PCB for easier access.
 
 </details>
