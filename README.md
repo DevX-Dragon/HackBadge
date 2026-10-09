@@ -51,7 +51,7 @@
 | **Pin 4** | B (Blue Anode) | ADC1_CH4 / D33 (Pin 22) | Blue LED Anode Control |
 
 > [!TIP]
-> This RGB LED is used for debugging process but can be used as a custom feedback LED
+> Optional information to help a user be more successful.
 
 
 ---
