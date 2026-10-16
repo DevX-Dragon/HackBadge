@@ -1,0 +1,6 @@
+Item,Quantity, Price ,Use
+PCB (JLCPCB) (w/ shipping),1, $25.00 ,The Main Circuit Board
+Waveshare E-Ink Display,1, $38.00 ,The display of the badge
+ESP32,1, $7.00 ,MCU
+,,,
+,Total (ESTIMATED), $70.00 ,

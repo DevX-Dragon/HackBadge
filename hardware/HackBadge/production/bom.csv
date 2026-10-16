@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,DOIT_ESP32_DEVKIT_30Pins,1,ESP32_DevKit_V1_DOIT_30GPIOs,
+DEBUG ,LED_D5.0mm-4_RGB_Wide_Pins,1,LED_5mm_RGB_Kcom_GKRB,
+J1,PinHeader_1x08_P2.54mm_Vertical,1,Conn_01x08,
+J3,PinHeader_1x15_P2.54mm_Vertical,1,Conn_01x15_Pin,
+RESET ,SW_PUSH_6mm_H5mm,1,RESET,
+SW5,SW_PUSH_6mm_H5mm,1,Button1,
+SW6,SW_PUSH_6mm_H5mm,1,Button2,
+SW7,SW_PUSH_6mm_H5mm,1,Button3,
+SW8,SW_PUSH_6mm_H5mm,1,Button4,
