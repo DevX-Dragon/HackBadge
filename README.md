@@ -21,6 +21,8 @@
 ### 3D View
 
 ![3D view](images/3d.png)
+![alt text](<images/badge front.png>)
+
 
 
 ## Pinout Mapping
