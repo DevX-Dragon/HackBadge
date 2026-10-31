@@ -23,6 +23,16 @@
 ![3D view](images/3d.png)
 ![alt text](<images/badge front.png>)
 
+## Bill of Materials (BOM)
+
+| Part | Qty | Unit | Total | Where |
+| --- | ---: | ---: | ---: | --- |
+| PCB (JLCPCB) (w/ shipping) | 1 | $25.00 | $25.00 | JLCPCB |
+| Waveshare E-Ink Display | 1 | $38.00 | $38.00 | [AliExpress](https://www.aliexpress.com/item/1005009085337626.html) |
+| ESP32 | 1 | $7.00 | $7.00 | [AliExpress](https://www.aliexpress.com/item/1005012242722260.html) |
+| RGB led | 1 | $0.50 | $0.50 | [Duino.lk LOCAL](https://www.duino.lk/product/rgb-led-5mm-water-clear-4-pin/) |
+| switches | 5 | $0.10 | $0.50 | [Duino.lk LOCAL](https://www.duino.lk/product/12x12x13mm-touch-switch/) |
+
 
 
 ## Pinout Mapping
