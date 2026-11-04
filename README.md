@@ -8,6 +8,21 @@
 - **Programmale buttons**: Dedicated input buttons for navigating menus, switching displays or triggering a custom action.
 - **Expaned GPIO Breakout**: Exposed GPIO pins allowing easy access for external sesors, LEDs and modules.
 
+## How to DIY?
+
+- Manufacture the PCB using the [Gerber Files](production/HackBadge.zip)
+- Source the components from the [Bill of Material](bom.csv)
+- Solder them according to the ![Schematics](images/schematics.png)
+- Flash the firmware
+
+## Firmware Flashing
+
+- Open [Firmware.ino](firmware/firmware.ino) in Arduino IDE / Platoform IO
+- Connect the ESP32 
+- Flash the fimrware
+- You should see informations on the Display
+- Have fun tinkering with the firmware!
+
 ## Hardware Overview
 
 ### Schematics
